@@ -32,7 +32,7 @@ npm audit (Dependency vulnerability analysis)
  .Server Information Leakage
  .HSTS Not Configured
 ### Files in This Repository
-Week1 Security Assessment Report.docx : Full vulnerability report + summary
+ Security Assessment Report.docx : Full vulnerability report + summary
 ##  Implementing Security Measures
 ### Libraries Installed
 | Library | Purpose |
