@@ -1,0 +1,36 @@
+2026-06-26T09:03:51.180Z [INFO]: Logger initialized successfully
+2026-06-26T09:03:51.435Z [INFO]: Connected to the database
+2026-06-26T09:05:28.135Z [INFO]: Logger initialized successfully
+2026-06-26T09:05:28.300Z [INFO]: Connected to the database
+2026-06-26T09:05:28.317Z [INFO]: Express http server listening on port 4000
+2026-06-26T09:05:28.318Z [INFO]: Application started successfully
+2026-06-26T09:08:00.337Z [INFO]: GET /
+2026-06-26T09:08:00.409Z [INFO]: GET /login
+2026-06-26T09:08:00.554Z [INFO]: GET /vendor/bootstrap/bootstrap.css
+2026-06-26T09:08:00.561Z [INFO]: GET /vendor/theme/font-awesome/css/font-awesome.min.css
+2026-06-26T09:08:00.566Z [INFO]: GET /vendor/theme/sb-admin.css
+2026-06-26T09:08:00.577Z [INFO]: GET /vendor/jquery.min.js
+2026-06-26T09:08:00.582Z [INFO]: GET /images/owasplogo.png
+2026-06-26T09:08:00.597Z [INFO]: GET /vendor/bootstrap/bootstrap.js
+2026-06-26T09:08:00.793Z [INFO]: GET /vendor/theme/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.1
+2026-06-26T09:08:24.308Z [INFO]: POST /login
+2026-06-26T09:08:32.640Z [INFO]: GET /signup
+2026-06-26T09:08:32.687Z [INFO]: GET /vendor/bootstrap/bootstrap.css
+2026-06-26T09:08:32.693Z [INFO]: GET /vendor/theme/sb-admin.css
+2026-06-26T09:08:32.695Z [INFO]: GET /vendor/theme/font-awesome/css/font-awesome.min.css
+2026-06-26T09:08:32.704Z [INFO]: GET /vendor/jquery.min.js
+2026-06-26T09:08:32.706Z [INFO]: GET /vendor/bootstrap/bootstrap.js
+2026-06-26T09:08:58.078Z [INFO]: POST /signup
+2026-06-26T09:09:05.940Z [INFO]: GET /signup
+2026-06-26T09:09:05.976Z [INFO]: GET /vendor/bootstrap/bootstrap.css
+2026-06-26T09:09:05.986Z [INFO]: GET /vendor/theme/sb-admin.css
+2026-06-26T09:09:05.989Z [INFO]: GET /vendor/theme/font-awesome/css/font-awesome.min.css
+2026-06-26T09:09:05.994Z [INFO]: GET /vendor/jquery.min.js
+2026-06-26T09:09:05.999Z [INFO]: GET /vendor/bootstrap/bootstrap.js
+2026-06-26T09:09:08.764Z [INFO]: GET /login
+2026-06-26T09:09:08.795Z [INFO]: GET /vendor/bootstrap/bootstrap.css
+2026-06-26T09:09:08.800Z [INFO]: GET /vendor/theme/sb-admin.css
+2026-06-26T09:09:08.807Z [INFO]: GET /vendor/theme/font-awesome/css/font-awesome.min.css
+2026-06-26T09:09:08.816Z [INFO]: GET /vendor/jquery.min.js
+2026-06-26T09:09:08.823Z [INFO]: GET /images/owasplogo.png
+2026-06-26T09:09:08.824Z [INFO]: GET /vendor/bootstrap/bootstrap.js
