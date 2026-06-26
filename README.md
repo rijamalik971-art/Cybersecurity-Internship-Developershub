@@ -2,7 +2,7 @@
 ## Intern Information
 **Program:** DevelopersHub Cybersecurity Internship
  **Task:** Phase 1: Strengthening Security Measures for a Web Application
-## Week 1: Security Assessment
+##  Security Assessment
 ### Application Used
 **OWASP NodeGoat** Deliberately vulnerable Node.js web application
 **1.Official Repository: https://github.com/OWASP/NodeGoat
@@ -29,12 +29,9 @@ npm audit (Dependency vulnerability analysis)
  .Cookie Security Issues (No HttpOnly, No SameSite)
  .Server Information Leakage
  .HSTS Not Configured
-
 ### Files in This Repository
-`Week1 Security Assessment Report.docx` : Full vulnerability report + summary
-
-## Week 2: Implementing Security Measures
-
+Week1 Security Assessment Report.docx : Full vulnerability report + summary
+##  Implementing Security Measures
 ### Libraries Installed
 | Library | Purpose |
 |---------|---------|
@@ -42,7 +39,6 @@ npm audit (Dependency vulnerability analysis)
 | bcrypt | Password hashing |
 | jsonwebtoken | Token based authentication |
 | helmet | HTTP security headers |
-
 ### Security Fixes Applied
  Input validation added for all user inputs
  Passwords hashed using bcrypt (10 salt rounds)
@@ -54,8 +50,32 @@ npm audit (Dependency vulnerability analysis)
 
 ### Files
 server.js:Updated secure server code
-Week2:Security Implementation Report.docx: Implementation report
-Week2:Document Finding.docx: Security fixes summary
+Security Implementation Report.docx: Implementation report
+Document Finding.docx: Security fixes summary
 
-## Week 3: Advanced Security & Final Report
-*Coming Soon*
+##  Advanced Security & Final Report
+### Tasks Completed
+ Basic Penetration Testing (XSS, Injection, Clickjacking)
+ Winston logging configured
+ security.log file created
+ Security best practices checklist created
+
+### Penetration Testing Results
+| Test | Result |
+|------|--------|
+| XSS Attack | Blocked |
+| NoSQL Injection | Blocked |
+| Clickjacking | Blocked |
+| Server Info Disclosure | Fixed |
+
+### Logging Setup
+Library: Winston
+Console logging: Active
+File logging: security.log
+Events logged: All HTTP requests DB connection errors
+
+### Files
+logger.js  Winston logging configuration
+security.log  Application security logs
+Advanced Security Report.docx Final report
+Week3 Document Finding.docx  Security findings 
