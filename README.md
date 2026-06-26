@@ -1,7 +1,9 @@
 # Cybersecurity Internship  DevelopersHub Corporation
 ## Intern Information
 **Program:** DevelopersHub Cybersecurity Internship
- **Task:** Phase 1: Strengthening Security Measures for a Web Application
+ **Task:** 
+ Phase 1:
+ Strengthening Security Measures for a Web Application
 ##  Security Assessment
 ### Application Used
 **OWASP NodeGoat** Deliberately vulnerable Node.js web application
