@@ -34,3 +34,55 @@
 2026-06-26T09:09:08.816Z [INFO]: GET /vendor/jquery.min.js
 2026-06-26T09:09:08.823Z [INFO]: GET /images/owasplogo.png
 2026-06-26T09:09:08.824Z [INFO]: GET /vendor/bootstrap/bootstrap.js
+2026-07-13T05:45:13.293Z [INFO]: Logger initialized successfully
+2026-07-13T05:45:13.453Z [ERROR]: Error: DB: connect
+2026-07-13T05:50:20.109Z [INFO]: Logger initialized successfully
+2026-07-13T05:50:20.218Z [INFO]: Connected to the database
+2026-07-13T05:50:20.251Z [INFO]: Express http server listening on port 4000
+2026-07-13T05:50:20.251Z [INFO]: Application started successfully
+2026-07-13T05:58:52.092Z [INFO]: Logger initialized successfully
+2026-07-13T05:58:52.210Z [INFO]: Connected to the database
+2026-07-13T05:58:52.220Z [INFO]: Express http server listening on port 4000
+2026-07-13T05:58:52.220Z [INFO]: Application started successfully with Week 4 security enhancements
+2026-07-13T05:59:37.084Z [INFO]: GET / - IP: ::1
+2026-07-13T05:59:37.116Z [INFO]: GET /login - IP: ::1
+2026-07-13T05:59:37.150Z [INFO]: GET /vendor/bootstrap/bootstrap.css - IP: ::1
+2026-07-13T05:59:37.158Z [INFO]: GET /vendor/theme/sb-admin.css - IP: ::1
+2026-07-13T05:59:37.159Z [INFO]: GET /vendor/theme/font-awesome/css/font-awesome.min.css - IP: ::1
+2026-07-13T05:59:37.162Z [INFO]: GET /vendor/jquery.min.js - IP: ::1
+2026-07-13T05:59:37.180Z [INFO]: GET /images/owasplogo.png - IP: ::1
+2026-07-13T05:59:37.180Z [INFO]: GET /vendor/bootstrap/bootstrap.js - IP: ::1
+2026-07-13T05:59:37.218Z [INFO]: GET /vendor/theme/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.1 - IP: ::1
+2026-07-13T06:03:26.419Z [INFO]: GET /signup - IP: ::1
+2026-07-13T06:03:26.450Z [INFO]: GET /vendor/bootstrap/bootstrap.css - IP: ::1
+2026-07-13T06:03:26.459Z [INFO]: GET /vendor/theme/sb-admin.css - IP: ::1
+2026-07-13T06:03:26.460Z [INFO]: GET /vendor/theme/font-awesome/css/font-awesome.min.css - IP: ::1
+2026-07-13T06:03:26.460Z [INFO]: GET /vendor/jquery.min.js - IP: ::1
+2026-07-13T06:03:26.463Z [INFO]: GET /vendor/bootstrap/bootstrap.js - IP: ::1
+2026-07-13T06:03:41.657Z [INFO]: POST /signup - IP: ::1
+2026-07-13T06:03:49.087Z [INFO]: GET /login - IP: ::1
+2026-07-13T06:03:49.105Z [INFO]: GET /vendor/bootstrap/bootstrap.css - IP: ::1
+2026-07-13T06:03:49.109Z [INFO]: GET /vendor/theme/sb-admin.css - IP: ::1
+2026-07-13T06:03:49.110Z [INFO]: GET /vendor/theme/font-awesome/css/font-awesome.min.css - IP: ::1
+2026-07-13T06:03:49.115Z [INFO]: GET /vendor/jquery.min.js - IP: ::1
+2026-07-13T06:03:49.123Z [INFO]: GET /images/owasplogo.png - IP: ::1
+2026-07-13T06:03:49.124Z [INFO]: GET /vendor/bootstrap/bootstrap.js - IP: ::1
+2026-07-13T06:03:59.069Z [INFO]: POST /login - IP: ::1
+2026-07-13T06:05:15.422Z [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json - IP: ::1
+2026-07-13T06:06:00.086Z [INFO]: POST /login - IP: ::1
+2026-07-13T06:06:00.182Z [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json - IP: ::1
+2026-07-13T06:06:04.894Z [INFO]: POST /login - IP: ::1
+2026-07-13T06:06:04.959Z [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json - IP: ::1
+2026-07-13T06:07:23.826Z [WARN]: Login rate limit exceeded for IP: ::1
+2026-07-13T06:07:23.904Z [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json - IP: ::1
+2026-07-13T06:07:25.258Z [WARN]: Login rate limit exceeded for IP: ::1
+2026-07-13T06:07:25.302Z [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json - IP: ::1
+2026-07-13T06:07:26.303Z [WARN]: Login rate limit exceeded for IP: ::1
+2026-07-13T06:07:26.364Z [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json - IP: ::1
+2026-07-13T06:08:38.122Z [WARN]: Login rate limit exceeded for IP: ::1
+2026-07-13T06:13:10.112Z [INFO]: Logger initialized successfully
+2026-07-13T06:13:10.332Z [INFO]: Connected to the database
+2026-07-13T06:13:58.067Z [INFO]: Logger initialized successfully
+2026-07-13T06:13:58.267Z [INFO]: Connected to the database
+2026-07-13T06:13:58.275Z [INFO]: Express http server listening on port 4000
+2026-07-13T06:13:58.275Z [INFO]: Application started successfully with Week 4 & 5 security enhancements
