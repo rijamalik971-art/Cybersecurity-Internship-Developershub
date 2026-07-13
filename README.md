@@ -81,3 +81,27 @@ logger.js  Winston logging configuration
 security.log  Application security logs
 Advanced Security Report.docx Final report
 Week3 Document Finding.docx  Security findings 
+## Week 4: Advanced Threat Detection & Web Security
+### Security Measures Implemented
+   Rate Limiting (100 req/15min general, 5 attempts login)
+   CORS properly configured
+   Content Security Policy (CSP) implemented
+   HTTP Strict Transport Security (HSTS) configured
+   Brute force login protection
+
+## Week 5: Ethical Hacking & Vulnerability Testing
+
+### Tests Performed
+  NoSQL Injection testing
+   XSS Attack testing
+   CSRF Protection implemented (csurf)
+   Parameter tampering tests
+
+## Week 6: Security Audit & Final Deployment
+
+### Audit Results
+ npm audit completed — 143 vulnerabilities documented
+   OWASP Top 10 compliance checked
+   npm audit fix executed
+  Final security deployment checklist completed
+
